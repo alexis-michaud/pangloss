@@ -1,0 +1,17 @@
+Parameter	Value	Description
+WordlistTitle	EFEO_CNRS_Ferlus_SEAWordList_v1_ThaiMuongForTestsByKhoa_Nov2014	Name of Wordlist file (Excel file and .txt file)
+WordlistLanguage	mtq	Ethnologue Code of Taget language: http://www.ethnologue.com/browse/codes
+TextGridName	TaiMuong13_voc1_items1a82_1	Identifier of document, filename of Textgrid/Sound file
+Title	Vocabulary list for Tai Muong, part 1	Title, in ONE language of your choice (Vietnamese, English or French)
+TitleLanguage	eng	Language code of Title
+Note	This is an example of DOREMIFA project	General note for this XML file
+NoteLanguage	eng	Language code of Note
+NumberOfSpeaker	1	Number of speakers of the target language in this recording (1 if there is only 1 consultant; 2 if there are 2 consultants.)
+CommentLanguage	vie	Language of comments
+NumberOfTranscription	2	Are there transcriptions of the form in the target language? Indicate the number : 0, 1, 2 …
+TranscriptionTitle1	TaiYo	Excel columme label of 1st transcription
+TranscriptionType1	phono	Kind of notation (phonological notation, and orthographic notation)
+TranscriptionTitle2	TaiYo IPA (Mỹ Dạ)	Excel columme label of 2st transcription
+TranscriptionType2	ortho	Kind of notation 
+TranscriptionTitle3		Excel columme label of 3st transcription
+TranscriptionType3		

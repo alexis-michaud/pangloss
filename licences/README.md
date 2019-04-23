@@ -28,9 +28,14 @@ Quelques pistes pour approfondir :
 *Les quelques réflexions présentées ici sont le fruit d'échanges avec des collègues dont Danièle Bourcier, Michel Jacobson, Olivier Maurel et Gilles Degottex, mais n'engagent que leur auteur (Alexis Michaud).*
 
 Références citées : 
+
 Bradley McDonnell, Andrea L. Berez-Kroeker & Gary Holton (eds.), Language Documentation & Conservation Special Publication No. 15: _Reflections on Language Documentation 20 Years afer Himmelmann 1998_  http://nflrc.hawaii.edu/ldc/ 
+
 Driem, George van. 2016. Endangered language research and the moral depravity of ethics protocols. _Language Documentation and Conservation_ 10. 243–252.
+
 Madsen, Kenneth D. 2008. Indigenous research, publishing, and intellectual property. _American Indian Culture and Research Journal_ 32(3). 89–105.
+
 Newman, Paul. 2012. Copyright and other legal concerns. In Nicholas Tieberger (ed.), _Oxford Handbook of Linguistic Fieldwork_, 430–456. Oxford: Oxford University Press.
+
 Tatsch, Sheri. 2004. Language revitalization in Native North America—issues of intellectual property rights and intellectual sovereignty. _Collegium Antropologicum_
 28(suppl. 1). 257–262.

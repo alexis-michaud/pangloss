@@ -12,7 +12,7 @@ Puisque la règle veut que l'ignorance ne soit pas une excuse ("Ignorantia juris
 
 Un premier niveau de réponse aux questions concernant le statut juridique des documents linguistiques recueillis sur le terrain est que les licences Creative Commons apportent des solutions satisfaisantes à des problèmes essentiels. Un consentement peut être aussi simple que les lignes qui suivent : 
 
-> Je soussigné(e), ………………………, domicilié(e) à ………………………, autorise la diffusion des enregistrements audio et vidéo auxquels j'ai participé les [date] sous une licence Creative Commons 4.0 BY-SA (voir https://creativecommons.org/licenses/by-sa/3.0/fr/ ). 
+> Je soussigné(e), ………………………, domicilié(e) à ………………………, autorise la diffusion des enregistrements audio et vidéo auxquels j'ai participé les [date] sous une licence Creative Commons 3.0 BY-SA (voir https://creativecommons.org/licenses/by-sa/3.0/fr/ ). 
 
 Le choix d'une licence qui n'exclut pas les emplois commerciaux (comme le feraient les licences comportant la mention 'nc', non commercial) permet de contrôler les usages commerciaux qui pourraient être faits de la ressource. Les enregistrements peuvent être diffusés sur internet sous licence BY-NC-SA (afin de se prémunir contre des usages commerciaux qui apparaîtraient non souhaitables), en précisant "pour des usages commerciaux, nous contacter". La personne ayant déposé la ressource peut alors choisir de donner son autorisation pour un usage commercial qui paraît souhaitable (par exemple pour des supports de cours diffusés selon un modèle économique qui comporte un paiement), sous licence BY-SA, sans être tenue de recontacter chacun des locuteurs afin de solliciter leur accord pour une autre licence.
 

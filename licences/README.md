@@ -14,7 +14,7 @@ Puisque la règle veut que l'ignorance ne soit pas une excuse ("Ignorantia juris
 
 Un premier niveau de réponse aux questions concernant le statut juridique des documents linguistiques recueillis sur le terrain est que les licences Creative Commons apportent des solutions satisfaisantes à des problèmes essentiels. Un consentement peut être aussi simple que les lignes qui suivent : 
 
-> Je soussigné(e), ………………………, domicilié(e) à ………………………, autorise la diffusion des enregistrements audio et vidéo auxquels j'ai participé les [date] sous une licence Creative Commons 3.0 BY-SA (voir https://creativecommons.org/licenses/by-sa/3.0/fr/ ). 
+> Je soussigné(e), ………………………, domicilié(e) à ………………………, autorise la diffusion des enregistrements audio et vidéo auxquels j'ai participé les [date] sous une licence Creative Commons BY-SA 3.0 FR (voir https://creativecommons.org/licenses/by-sa/3.0/fr/ ). 
 
 (À traduire dans la langue de l'intéressé(e), bien sûr, mais en conservant le lien vers le texte français de la licence.)
 

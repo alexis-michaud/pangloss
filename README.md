@@ -1,5 +1,5 @@
 # pangloss
-This repository hosts scripts and materials related to the Pangloss Collection. Note that the official repository of the Pangloss Collection is at https://github.com/CNRS/Pangloss and that the interface to consult the Pangloss Collection is at https://lacito.vjf.cnrs.fr/pangloss/.
+This repository hosts scripts and materials related to the Pangloss Collection. Note that the official repository of the Pangloss Collection is at https://github.com/CNRS/Pangloss and that the interface to consult the Pangloss Collection is at https://pangloss.cnrs.fr/.
 
 ## DOREMIFA2XML: a Praat script to produce word lists in XML format
 
